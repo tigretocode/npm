@@ -1,0 +1,32 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tigretocode/npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "Marcelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tigretocode/npm/issues"
+  },
+  "homepage": "https://github.com/tigretocode/npm#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
